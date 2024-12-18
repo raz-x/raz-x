@@ -9,7 +9,7 @@ Hi ! I'm raz-x
 
 <a href="https://www.github.com/raz-x" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/raz-x?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <br>
-https://drive.google.com/drive/folders/1dT51N7jXK5VGM7rKVkBeSDIJVEY3hVoW
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=raz-x&label=Profile%20Views&color=0&icon=2&pretty=true" />
 </a>
@@ -51,6 +51,8 @@ https://drive.google.com/drive/folders/1dT51N7jXK5VGM7rKVkBeSDIJVEY3hVoW
 <a href="https://github.com/raz-x" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raz-x&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
+.
+https://drive.google.com/drive/folders/1dT51N7jXK5VGM7rKVkBeSDIJVEY3hVoW
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 ✍️ Random Dev Quote
