@@ -9,6 +9,7 @@ Hi ! I'm raz-x
 
 <a href="https://www.github.com/raz-x" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/raz-x?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> <br>
+https://drive.google.com/drive/folders/1dT51N7jXK5VGM7rKVkBeSDIJVEY3hVoW
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=raz-x&label=Profile%20Views&color=0&icon=2&pretty=true" />
 </a>
