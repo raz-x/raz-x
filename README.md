@@ -55,7 +55,7 @@ I'm <strong>Mohamed Rashid</strong>, a passionate <strong>Full-Stack Developer</
 ## ✍️ Dev Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
