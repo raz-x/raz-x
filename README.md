@@ -63,7 +63,7 @@ I'm <strong>Mohamed Rashid</strong>, a passionate <strong>Full-Stack Developer</
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1dT51N7jXK5VGM7rKVkBeSDIJVEY3hVoW" target="_blank">
+  <a href="https://mail.google.com/moh.rashid20006@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Google%20Drive-1a73e8?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <a href="#" target="_blank">
