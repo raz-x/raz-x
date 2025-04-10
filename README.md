@@ -62,10 +62,9 @@ I'm <strong>Mohamed Rashid</strong>, a passionate <strong>Full-Stack Developer</
 
 ## 🔗 Connect with Me
 
-<p align="center">
-  <a href="https://mail.google.com/moh.rashid20006@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Google%20Drive-1a73e8?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a>
+<a href="mailto:moh.rashid20006@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-0AE9F3?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
