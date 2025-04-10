@@ -39,19 +39,6 @@ I'm <strong>Mohamed Rashid</strong>, a passionate <strong>Full-Stack Developer</
 
 ---
 
-## 🔥 Featured Projects
-
-> A few projects I'm proud of:
-
-- **[Animated Portfolio Website](#)** – Fully responsive with smooth scroll and dark mode toggle  
-- **[TaskFlow Manager](#)** – A sleek MERN app to manage tasks visually with drag-drop  
-- **[Feedback Form + Google Sheet Sync](#)** – Custom form with Google Sheet backend & admin dashboard  
-- **[DevUI Components](#)** – A mini design system built using Tailwind + AlpineJS
-
-> *(Live links coming soon)*
-
----
-
 ## ✍️ Dev Quote of the Day
 
 <p align="center">
