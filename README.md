@@ -12,13 +12,13 @@
 ## 🧑‍💻 Who Am I?
 
 <p>
-I'm <strong>Mohamed Rashid</strong>, a passionate <strong>Full-Stack Developer</strong> who brings ideas to life through clean, elegant, and efficient code. With a strong eye for design and a love for problem-solving, I focus on delivering delightful user experiences.
+I'm <strong>Mohamed Rashid</strong>, an aspiring <strong>Full-Stack Developer</strong> currently learning how to build dynamic and scalable web applications. With a strong passion for clean UI design and efficient code, I'm focused on mastering modern web technologies to create seamless user experiences.
 </p>
 
-- 🌱 Currently learning: Advanced React, GSAP Animations, and Firebase Functions  
-- 🔨 Building: A personal portfolio, a dashboard system, and a dev blog  
-- 🎯 Goal: To work on impactful web products that people love using  
-- 💬 Ask me about JavaScript, React, Node, TailwindCSS, Firebase, UI/UX, and APIs  
+- 🌱 Currently learning: Full-Stack Development (MERN Stack), GSAP Animations, and Firebase Functions  
+- 🔨 Working on: A personal portfolio, a dashboard system, and a dev blog  
+- 🎯 Goal: To become a skilled Full-Stack Developer and work on impactful web products  
+- 💬 Ask me about JavaScript, React, Node.js, TailwindCSS, Firebase, UI/UX, and APIs
 
 ---
 
