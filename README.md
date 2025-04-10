@@ -68,7 +68,7 @@ I'm <strong>Mohamed Rashid</strong>, a passionate <strong>Full-Stack Developer</
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-0AE9F3?style=for-the-badge&logo=vercel&logoColor=black" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammed-rashid-3b1606316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
